@@ -1,3 +1,12 @@
+## [7.2.2](https://github.com/softwaregroup-bg/ut-port-messenger-sim/compare/v7.2.1...v7.2.2) (2021-04-13)
+
+
+### Bug Fixes
+
+* k8s port ([64bfdb5](https://github.com/softwaregroup-bg/ut-port-messenger-sim/commit/64bfdb52e71265351acc8411bab7af91c7cb87ad))
+
+
+
 ## [7.2.1](https://github.com/softwaregroup-bg/ut-port-messenger-sim/compare/v7.2.0...v7.2.1) (2021-04-10)
 
 
