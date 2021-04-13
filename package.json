@@ -3,7 +3,7 @@
     "version": "7.2.1",
     "main": "index.js",
     "dependencies": {
-        "ut-port-webhook": "^8.0.2"
+        "ut-port-webhook": "^8.0.4"
     },
     "devDependencies": {
         "tap": "^12.5.3",
