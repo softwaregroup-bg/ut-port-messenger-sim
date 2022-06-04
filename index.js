@@ -8,6 +8,7 @@ module.exports = function messengerSim(...params) {
                 path: '/v2.6/me/messages',
                 hook: 'botSim.messengerFlow',
                 mode: 'reply',
+                async: false,
                 server: {
                     port: 8182
                 },
