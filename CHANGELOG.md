@@ -1,3 +1,12 @@
+## [7.2.4](https://github.com/softwaregroup-bg/ut-port-messenger-sim/compare/v7.2.3...v7.2.4) (2022-06-04)
+
+
+### Bug Fixes
+
+* 🎉second anniversary bugfix for ([02af766](https://github.com/softwaregroup-bg/ut-port-messenger-sim/commit/02af7661d5d29ecbcffdec6f3bd2c17526284478))
+
+
+
 ## [7.2.3](https://github.com/softwaregroup-bg/ut-port-messenger-sim/compare/v7.2.2...v7.2.3) (2021-06-30)
 
 
